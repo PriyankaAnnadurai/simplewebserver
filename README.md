@@ -47,6 +47,14 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+### Server Side Output
+
+![Server Side Output](./images/serveroutput.png)
+
+### Client Side Output
+
+![Client Side Output](./images/clientoutput.png)
 
 ## RESULT:
-The program is executed succesfully
+
+Thus the webserver is developed to display about top five programming languages.
