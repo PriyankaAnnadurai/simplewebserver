@@ -35,7 +35,7 @@ class MyServer(BaseHTTPRequestHandler):
         print('Get request received...')
         self.send_response(200)
         self.end_headers()
-        self.wfile.write(content.encode())
+        self.wfile.write(content.encode()) 
 
 print("This is my webserver")
 server_address =('',80)
@@ -49,11 +49,12 @@ httpd.serve_forever()
 
 ### Server Side Output
 
-![Server Side Output](./images/serveroutput.png)
+![Server Side Output](.\Users\SEC\Documents\myfirstexperiment\simplewebserver\images\serveroutput.png)
 
 ### Client Side Output
 
-![Client Side Output](./images/clientoutput.png)
+![Client Side Output](\Users\SEC\Documents\myfirstexperiment\simplewebserver\images\clientoutput.png")
+
 
 ## RESULT:
 
