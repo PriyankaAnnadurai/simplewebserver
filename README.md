@@ -49,11 +49,12 @@ httpd.serve_forever()
 
 ### Server Side Output
 
-![Server Side Output](.\Users\SEC\Documents\myfirstexperiment\simplewebserver\images\serveroutput.png)
+![Server Side Output](./images/serveroutput.png)
+
 
 ### Client Side Output
 
-![Client Side Output](\Users\SEC\Documents\myfirstexperiment\simplewebserver\images\clientoutput.png")
+![Client Side Output](./images/clientoutput.png)
 
 
 ## RESULT:
