@@ -54,11 +54,11 @@ httpd.serve_forever()
 
 ### Client Side Output
 
-<<<<<<< HEAD
+
 ![Client Side Output](./images/clientoutput.png)
 =======
 ![Client Side Output](./images/clientoutput.png")
->>>>>>> 6a7d604b0708a959b0d1a2b7966df88e17e2a723
+
 
 
 ## RESULT:
