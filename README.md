@@ -53,14 +53,16 @@ httpd.serve_forever()
 
 ### Server Side Output
 
-![Server Side Output](./images/serveroutput.png)
+![image](https://user-images.githubusercontent.com/118351569/206891524-844f55e1-5c75-4571-9230-0733c99fd55b.png)
+
 
 
 ### Client Side Output
 
+![image](https://user-images.githubusercontent.com/118351569/206891561-3a0c6e49-e300-4af1-9876-ccc4c2e393a6.png)
 
-![Client Side Output](./images/clientoutput.png)
-=======
+
+
 
 
 
